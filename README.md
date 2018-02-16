@@ -1,1 +1,1 @@
-# dyamic-layout-view
+# DynamicLayoutCell
